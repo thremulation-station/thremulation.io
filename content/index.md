@@ -1,23 +1,24 @@
+## What does it do?
+
+Information security monitoring is complex, and setting up an environment to learn or test complicated things using complex systems can be a big time sink, or even a complete blocker. Whether you're a novice learner, junior red-teamer, or a veteran operator, Thremulation Station aims to provides a smooth path to executing threats and observing them using [Elastic Security](https://www.elastic.co/guide/en/security/current/es-overview.html) all within the same platform. And what if I told you it could all be done from your laptop??
+
 ![](images/ts-workflow.png)
 
-The bottom line: Cyber Threat Detection for your ***laptop***
 
 
-## What is Thremulation Station?
+## What are the requirements?
 
-Thremulation Station is an approachable and small-scale threat emulation and detection range. It primarily uses Elastic Security and Atomic Redteam to emulate and detect adversary activity. 
-
-The project is a collection of existing tools like VirtualBox and Vagrant an to deploy a local testing environment that requires only a _reasonably_ spec'd machine.
+Our goal from the beginning has been to provide a small and useful range that can operate on a laptop with a minimum of ***4 threads available*** and ***8G of RAM***. Obviously the more the better, but the minimum specs with get the job done.  
 
 
-## How is it different?
+## How does it work?
 
-Not everyone has a blade server heating their home from a closet...and not everyone, be it a junior hunter/red teamer who is just getting started or an operator with 20 years experience, is an engineer that can stitch all of the complex services together to grow or sharpen your skills.
+The project is a collection of existing virtualization tools like VirtualBox and Vagrant an to deploy a local testing environment that requires only a _reasonably_ spec'd machine. Once the environment is built, users can start simulating and detecting traffic primarily using [Elastic Security](https://www.elastic.co/guide/en/security/current/es-overview.html) and [Atomic Redteam](https://github.com/redcanaryco/atomic-red-team).
 
 
 ## Who was it built for?
 
-This project has many practical use cases, and we're excited to see how it's used. Here are a few examples that we had in mind while creating the project.
+This project has many practical use cases, and we're excited to see how the community uses TS. Here are a few examples that we had in mind while creating the project.
 
 - Cyber defense education
 - Generating training data

@@ -24,7 +24,7 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Thremulation Station"
-  project_tagline = "An approachable small-scale cyber threat emulation and detection range built on Elastic and Atomic"
+  project_tagline = "A lightweight cyber threat emulation and detection range built on Elastic and Atomic Redteam"
   author = "Thremulation Station"
   github = "https://github.com/thremulation-station/thremulation-station"
   twitter = "https://twitter.com/thremulation"
@@ -68,18 +68,14 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "About"
-    url = "/post/about.md"
-    weight = 1
-  [[menu.nav]]
     name = "Github"
     url = "https://github.com/thremulation-station/thremulation-station"
-    weight = 2
+    weight = 1
   [[menu.nav]]
-    name = "Docs"
+    name = "Documentation"
     url = "https://docs.thremulation.io/"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     name = "Discord"
     url = "https://discord.gg/mtNXN4QjHh"
-    weight = 4
+    weight = 3
