@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thremulation Station</title>
+    <link>https://thremulation.io/</link>
+    <description>Recent content on Thremulation Station</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://thremulation.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://thremulation.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thremulation.io/</guid>
+      <description>The bottom line: Cyber Threat Detection for your laptop
+What is Thremulation Station? Thremulation Station is an approachable and small-scale threat emulation and detection range. It primarily uses Elastic Security and Atomic Redteam to emulate and detect adversary activity.
+The project is a collection of existing tools like VirtualBox and Vagrant an to deploy a local testing environment that requires only a reasonably spec&amp;rsquo;d machine.
+How is it different? Not everyone has a blade server heating their home from a closet&amp;hellip;and not everyone, be it a junior hunter/red teamer who is just getting started or an operator with 20 years experience, is an engineer that can stitch all of the complex services together to grow or sharpen your skills.</description>
+    </item>
+    
+  </channel>
+</rss>
