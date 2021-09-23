@@ -76,6 +76,6 @@ pygmentsStyle = "pygments"
     url = "https://docs.thremulation.io/"
     weight = 2
   [[menu.nav]]
-    name = "Discord"
-    url = "https://discord.gg/mtNXN4QjHh"
+    name = "Slack"
+    url = "https://join.slack.com/t/thremulation-station/shared_invite/zt-urwtghsh-GyJp8ENYQgtDQAP0JhcbRw"
     weight = 3
