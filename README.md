@@ -2,9 +2,9 @@
 
 ## Get Connected
 
-- [Documentation](https://docs.thremulation.io)
-- [Slack](https://join.slack.com/t/thremulation/shared_invite/zt-w1v1hijr-r9LYdOOna9p8YuldKxjy_w)
-- [Twitter](https://twitter.com/thremulation)
+[Documentation](https://docs.thremulation.io)  
+[Slack](https://join.slack.com/t/thremulation/shared_invite/zt-w1v1hijr-r9LYdOOna9p8YuldKxjy_w)  
+[Twitter](https://twitter.com/thremulation)  
 
 
 ## What is it?
