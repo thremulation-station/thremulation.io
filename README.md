@@ -1,3 +1,10 @@
+## Get Connected
+
+- [Documentation](https://docs.thremulation.io()
+- [Slack](https://join.slack.com/t/thremulation/shared_invite/zt-w1v1hijr-r9LYdOOna9p8YuldKxjy_w()
+- [Twitter](https://twitter.com/thremulation()
+
+
 ## What is it?
 
 Information security monitoring is complex, and setting up an environment to learn or test complicated things using complex systems can be a big time sink, or even a complete blocker. Whether you're a novice learner, junior red-teamer, or a veteran operator, Thremulation Station aims to provides a smooth path to executing threats and observing them using [Elastic Security](https://www.elastic.co/guide/en/security/current/es-overview.html) all within the same platform. And what if I told you it could all be done from your laptop??
