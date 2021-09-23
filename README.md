@@ -1,5 +1,3 @@
-# Thremulation Station
-
 ## What is it?
 
 Information security monitoring is complex, and setting up an environment to learn or test complicated things using complex systems can be a big time sink, or even a complete blocker. Whether you're a novice learner, junior red-teamer, or a veteran operator, Thremulation Station aims to provides a smooth path to executing threats and observing them using [Elastic Security](https://www.elastic.co/guide/en/security/current/es-overview.html) all within the same platform. And what if I told you it could all be done from your laptop??
