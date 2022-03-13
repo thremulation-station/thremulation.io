@@ -2,7 +2,7 @@
 
 ## Get Connected
 
-[Project Repo](https://github.com/thremulation-station/thremulation-station)
+[Project Repo](https://github.com/thremulation-station/thremulation-station)  
 [Documentation](https://docs.thremulation.io)  
 [Slack](https://join.slack.com/t/thremulation/shared_invite/zt-w1v1hijr-r9LYdOOna9p8YuldKxjy_w)  
 [Twitter](https://twitter.com/thremulation)  
